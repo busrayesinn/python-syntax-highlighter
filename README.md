@@ -23,7 +23,7 @@ Bu proje; bir programlama dili çalışması kapsamında, dilin sözdizimini tan
 
 Projenin nasıl çalıştığını görmek için videoyu izleyebilirsiniz:
 
-➡️ **[YouTube Video Linki](https://www.youtube.com/watch?v=senin-linkin-gelecek)**
+➡️ **[YouTube Video Linki](https://youtu.be/o4OPgq9_p9o?si=2BKx9mgUi6dgu6r5)**
 
 ---
 
